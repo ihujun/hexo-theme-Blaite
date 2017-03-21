@@ -6,7 +6,8 @@ A simple theme for [Hexo](https://hexo.io/) with great performance on different 
 
 - [Preview](http://chaoo.oschina.io/)
 
-[![BlueLake template preview](http://obzf7z93c.bkt.clouddn.com/themeBlueLake.png "BlueLake template preview")](http://chaoo.oschina.io/)
+[![BlueLake template preview](https://github.com/ihujun/hexo-theme-Blaite/blob/master/20170321084515573.png "BlueLake template preview")](http://ihujun.github.io)
+[![BlueLake template preview](https://github.com/ihujun/hexo-theme-Blaite/blob/master/moblie.jpg "BlueLake template preview")](http://ihujun.github.io/)
 
 ## Installation
 
@@ -208,10 +209,7 @@ jsonContent:
 #### Languages
 Seven languages are available for this theme currently: Simplified Chinese (zh-CN), Traditional Chinese (zh-TW), English (en), French (fr-FR), German (de-DE), Korean (ko) and Spanish (es-ES). Contributions of translating to other languages will be highly appreciated.
 
-## Solutions
-- Check whether your Terminal's current directory is in hexo's root directory which contains `source/`, `themes/`, etc.
 
-- If you have any trouble in using this theme, please feel free to open an [issue](https://github.com/chaooo/hexo-theme-BlueLake/issues).
 
 ## Browser Support
 ![Imgur](http://i.imgur.com/iO9L5ty.png)
