@@ -1,12 +1,13 @@
-# BlueLake
+# Blaite
 
 [English](README.en.md) | [简体中文](README.md)
 
-一个简洁轻量化的响应式[Hexo](https://hexo.io/)博客主题。
+一款基于[BlueLake](https://github.com/chaooo/hexo-theme-BlueLake)修改的一个简洁轻量化的响应式[Hexo](https://hexo.io/)博客主题。
+主要是外观变了，原主题以淡蓝为主，Blaite主要是以黑白为主，一些功能设置之类的大都一样，所有就直接借用原主题的REAME了
+- [点击预览](http://ihujun.github.io/)
 
-- [点击预览](http://chaoo.oschina.io/)
-
-[![BlueLake template preview](http://obzf7z93c.bkt.clouddn.com/themeBlueLake.png "BlueLake template preview")](http://chaoo.oschina.io/)
+[![Blaite template preview](https://github.com/ihujun/hexo-theme-Blaite/blob/master/20170321084515573.png "BlueLake template preview")](http://ihujun.github.io/)
+[![Blaite template preview](https://github.com/ihujun/hexo-theme-Blaite/blob/master/moblie.jpg "BlueLake template preview")](http://ihujun.github.io/)
 
 ## 安装
 
@@ -213,9 +214,6 @@ jsonContent:
 #### 语言
 该主题目前有七种语言：简体中文（zh-CN），繁体中文（zh-TW），英语（en），法语（fr-FR），德语（de-DE），韩语 （ko）,西班牙语（es-ES）,欢迎修改主题并翻译成其他语言。
 
-## Solutions
-- 检查您当前的hexo的根目录，是否包含`source /`，`themes /`等。
-- 如果你在使用这个主题有任何问题，请随时打开一个[issue](https://github.com/chaooo/hexo-theme-BlueLake/issues)，或者给我发邮件[zhenggchaoo@gmail.com](zhenggchaoo@gmail.com)。
 
 ## 浏览器支持
 ![Imgur](http://i.imgur.com/iO9L5ty.png)
